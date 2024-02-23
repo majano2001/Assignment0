@@ -1,2 +1,2 @@
 # Rafael Majano-Salmeron
-<img src=".//Users/rafaelmajano/Downloads/IMG_7126.JPG"/>
+<img src="![alt text](IMG_7126-3.JPG)/>
